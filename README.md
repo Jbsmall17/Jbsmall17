@@ -3,7 +3,7 @@ Mobile: +2348061403147 | Email: jibolaalao17@gmail.com
 [GitHub](https://github.com/Jbsmall17) | [LinkedIn](www.linkedin.com/in/abdulmusawwir-alao-314358282) | Lagos, Nigeria.
 
 ## Profile Summary
-A process-driven junior Full-stack developer with 3 years of experience in software development, aligning strategy with enterprise goals. Experienced in pioneering software development life cycles, skilled at writing complex applications. Adept at defining objectives, identifying key areas, gathering information, translating into technical specifications, and devising custom web solutions and desired functionality. Proficient at utilizing relevant technologies, tools, methods, and processes to leverage solutions that affect code implementation and customer experience.
+A process-driven junior Full-stack developer with over 3 years of experience in software development, aligning strategy with enterprise goals. Experienced in pioneering software development life cycles, skilled at writing complex applications. Adept at defining objectives, identifying key areas, gathering information, translating into technical specifications, and devising custom web solutions and desired functionality. Proficient at utilizing relevant technologies, tools, methods, and processes to leverage solutions that affect code implementation and customer experience.
 
 ## Skills Highlights and Core Competencies
 - **Soft skills:** Strong leadership, communication, troubleshooting, analytical, team management, and interpersonal skills.
