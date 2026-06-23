@@ -15,7 +15,7 @@ A process-driven Full-stack developer with over 4 years of experience in softwar
 **Productivity/Collaboration Tools and Systems:** GitHub, GitLab, Trello, Slack, Google Workspace, Microsoft Teams, Microsoft Office Suite packages.
 
 ## Professional Experience
-### Junior Fullstack Developer - Citro Distro Lagso (2025 - 2026) 
+### Junior Fullstack Developer - Citro Distro Lagos (2025 - 2026) 
 - Built an internal admin panel for managing orders, inventory, and supply-chain operations, reducing manual processing time.
 - Developed and improved backend API endpoints using Node.js and Express to support evolving product and operational requirements.
 - Maintained a React Native mobile application connecting the business with retailers, ensuring seamless product distribution across the supply chain.
