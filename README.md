@@ -1,6 +1,6 @@
 # Abulmusawwir Alao
 Mobile: +2348061403147 | Email: jibolaalao17@gmail.com
-[GitHub](https://github.com/Jbsmall17) | [LinkedIn](www.linkedin.com/in/abdulmusawwir-alao-314358282) | Lagos, Nigeria.
+[GitHub](https://github.com/Jbsmall17) | [LinkedIn](https://www.linkedin.com/in/alao-abdulmusawwir/) | Lagos, Nigeria.
 
 ## Profile Summary
 A process-driven Full-stack developer with over 4 years of experience in software development, aligning strategy with enterprise goals. Experienced in pioneering software development life cycles, skilled at writing complex applications. Adept at defining objectives, identifying key areas, gathering information, translating into technical specifications, and devising custom web solutions and desired functionality. Proficient at utilizing relevant technologies, tools, methods, and processes to leverage solutions that affect code implementation and customer experience.
@@ -38,15 +38,14 @@ A process-driven Full-stack developer with over 4 years of experience in softwar
 - Translated design concepts into responsive and engaging user interfaces, contributing to a cohesive and professional appearance for the website.
 
 ## Project(s)
-### Mediplan - [GitHub Link](https://github.com/EngrMikolo/medical-appointment)
-A healthcare web application facilitating seamless interactions between doctors and patients.
-- Developed intuitive user interfaces, enabling patients to efficiently book appointments and manage related tasks.
-- Designed an attractive and user-friendly interface that maximizes user engagement and satisfaction.
-- Ensured cross-browser compatibility and responsive design for optimal user experience across different devices.
-- Conducted thorough testing and debugging to ensure high-quality and bug-free code.
+### Devlinks - [GitHub Link](https://github.com/Jbsmall17/link-sharing-webapp)
+A web application for aggregating and sharing links from multiple platforms via a single shareable URL.
+- Built a full-stack link-share app using React.js and Node.js.
+- Implemented user authentication, dashboards, and CRUD features.
+- Created RESTful APIs for smooth data handling and better performance
 
 ## Education
-- **B.Sc. in Mechanical Engineering (in view)**
+- **B.Sc. in Mechanical Engineering**
   University of Lagos, Akoka, Lagos (2026)
 - **Diploma in Backend Engineering**
   Alt School Africa (School of Engineering) (2023 – 2024)
