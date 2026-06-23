@@ -3,7 +3,7 @@ Mobile: +2348061403147 | Email: jibolaalao17@gmail.com
 [GitHub](https://github.com/Jbsmall17) | [LinkedIn](www.linkedin.com/in/abdulmusawwir-alao-314358282) | Lagos, Nigeria.
 
 ## Profile Summary
-A process-driven Full-stack developer with over 5 years of experience in software development, aligning strategy with enterprise goals. Experienced in pioneering software development life cycles, skilled at writing complex applications. Adept at defining objectives, identifying key areas, gathering information, translating into technical specifications, and devising custom web solutions and desired functionality. Proficient at utilizing relevant technologies, tools, methods, and processes to leverage solutions that affect code implementation and customer experience.
+A process-driven Full-stack developer with over 4 years of experience in software development, aligning strategy with enterprise goals. Experienced in pioneering software development life cycles, skilled at writing complex applications. Adept at defining objectives, identifying key areas, gathering information, translating into technical specifications, and devising custom web solutions and desired functionality. Proficient at utilizing relevant technologies, tools, methods, and processes to leverage solutions that affect code implementation and customer experience.
 
 ## Skills Highlights and Core Competencies
 - **Soft skills:** Strong leadership, communication, troubleshooting, analytical, team management, and interpersonal skills.
@@ -15,7 +15,11 @@ A process-driven Full-stack developer with over 5 years of experience in softwar
 **Productivity/Collaboration Tools and Systems:** GitHub, GitLab, Trello, Slack, Google Workspace, Microsoft Teams, Microsoft Office Suite packages.
 
 ## Professional Experience
-### Junior Frontend Developer - Midrohub Lagos (2023 – Present)
+### Junior Fullstack Developer - Citro Distro Lagso (2025 - 2026) 
+- Built an internal admin panel for managing orders, inventory, and supply-chain operations, reducing manual processing time.
+- Developed and improved backend API endpoints using Node.js and Express to support evolving product and operational requirements.
+- Maintained a React Native mobile application connecting the business with retailers, ensuring seamless product distribution across the supply chain.
+### Junior Frontend Developer - Midrohub Lagos (2023 – 2025)
 - Developed and implemented responsive web designs, intuitive interfaces to enhance user experience and optimize website performance.
 - Collaborated closely with the team to translate wireframes and visual designs into intuitive and interactive web interfaces and ensure peak performance of web applications.
 - Utilized modern JavaScript framework (React) to build dynamic and scalable web applications.
@@ -43,7 +47,7 @@ A healthcare web application facilitating seamless interactions between doctors 
 
 ## Education
 - **B.Sc. in Mechanical Engineering (in view)**
-  University of Lagos, Akoka, Lagos (2019 – present)
+  University of Lagos, Akoka, Lagos (2026)
 - **Diploma in Backend Engineering**
   Alt School Africa (School of Engineering) (2023 – 2024)
 
